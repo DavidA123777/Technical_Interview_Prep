@@ -6,4 +6,4 @@ Repo with the bootcamp materials:
 https://github.com/huntercuny2x/interviewprepbootcampJan2024
 
 Progress so far: January 2nd complete ******
-Starting Januray 3rd
+Starting January 3rd
