@@ -7,6 +7,6 @@ https://github.com/huntercuny2x/interviewprepbootcampJan2024
 
 Progress so far: January 2nd complete in both c++ and python
 
-January 3rd Complete
+January 3rd Complete in python
 
 Starting January 4th
