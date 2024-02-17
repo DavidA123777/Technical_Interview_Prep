@@ -5,5 +5,5 @@ I will be posting my solutions to each problem I solve in files.
 Repo with the bootcamp materials:
 https://github.com/huntercuny2x/interviewprepbootcampJan2024
 
-Progress so far: January 2nd complete ******
+Progress so far: January 2nd complete in both c++ and python ******
 Starting January 3rd
