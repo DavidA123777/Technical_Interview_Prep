@@ -20,3 +20,17 @@ class Solution(object):
                 return ([map1[target_minus_current], i])
             else:
                 map1[nums[i]] = i    
+
+
+
+        # Second solution using enumerate:
+        
+        # hashmap = {}
+
+        # for index, value in enumerate(nums):
+        #     value_to_find = target - value
+        #     if (value_to_find in hashmap):
+        #         return [hashmap[value_to_find], index]
+        #     else:
+        #         hashmap[value] = index
+        
