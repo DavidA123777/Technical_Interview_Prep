@@ -45,7 +45,9 @@ class Solution(object):
 
 
         # Method 3:
-        
+
+        # Time Complexity O(n) where n is the length of s
+        # Space Complexity O(2*26) = O(52) = O(1) because the letters consist of english lowercase letters only so only 26 different possible keys
         # Base case if the lengths are not equal then they aren't anagrams of each other
         if (len(s) != len(t)):
             return False
