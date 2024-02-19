@@ -9,4 +9,6 @@ Progress so far: January 2nd complete in both c++ and python
 
 January 3rd Complete in python
 
-Starting January 4th
+January 4th Complete in Python
+
+Starting January 5th
