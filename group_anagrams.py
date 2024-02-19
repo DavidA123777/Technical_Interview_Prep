@@ -1,11 +1,13 @@
 class Solution(object):
     def groupAnagrams(self, strs):
         # Quick solution
-        
+
+        # Time Complexity: O(n*mlogm)
+        # Space Complexity: O(n + m)
         # keys: values (sorted anagram string : list of anagrams corresponding to that sorted string)
         hashmap = {}
-        for string in strs:
-            sortedStr = ''.join(sorted(string))
+        for string in strs: #n where n is the size of the array
+            sortedStr = ''.join(sorted(string)) # mlogm, where m is the average length of strings
             if sortedStr not in hashmap:
                 hashmap[sortedStr] = [string]
             else:
